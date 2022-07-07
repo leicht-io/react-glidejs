@@ -24,7 +24,7 @@
     "deploy": "gh-pages -d example/build"
   },
   "peerDependencies": {
-    "react": "^16.0.0"
+    "react": "^16.0.0 || ^17.0.0 || ^18.0.0"
   },
   "devDependencies": {
     "@types/jest": "^25.1.4",
@@ -55,7 +55,7 @@
   ],
   "dependencies": {
     "@glidejs/glide": "^3.4.1",
-    "@types/react-transition-group": "^4.2.4",
-    "react-transition-group": "^4.3.0"
+    "@types/react-transition-group": "^4.4.5",
+    "react-transition-group": "^4.4.2"
   }
 }
